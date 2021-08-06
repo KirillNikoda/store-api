@@ -3,8 +3,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Store.Data;
-using Store.Entities;
+using Infrastructure.Data;
+using Core.Entities;
 
 namespace Store.Controllers
 {

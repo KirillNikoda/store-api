@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store\Store.csproj", "{D12F6D1E-0990-4E04-AB7A-009C2596ECC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{9229E789-D8C7-499B-AC6B-7BD5A2B52268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{2343C933-FECE-4783-8662-AB310BD247F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{D12F6D1E-0990-4E04-AB7A-009C2596ECC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D12F6D1E-0990-4E04-AB7A-009C2596ECC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D12F6D1E-0990-4E04-AB7A-009C2596ECC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9229E789-D8C7-499B-AC6B-7BD5A2B52268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9229E789-D8C7-499B-AC6B-7BD5A2B52268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9229E789-D8C7-499B-AC6B-7BD5A2B52268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9229E789-D8C7-499B-AC6B-7BD5A2B52268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2343C933-FECE-4783-8662-AB310BD247F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2343C933-FECE-4783-8662-AB310BD247F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2343C933-FECE-4783-8662-AB310BD247F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2343C933-FECE-4783-8662-AB310BD247F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
